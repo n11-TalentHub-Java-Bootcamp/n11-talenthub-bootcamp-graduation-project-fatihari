@@ -1,0 +1,6 @@
+#   Twilio generates a local but different number each time on the trial account in regions other than the USA and Canada.
+twilio: # Account info
+  account_sid: ACd1acee1ac7b844bd70d4060ec82a6322
+  auth_token: 0056a226ffb67a3f4e3b6da1032f11a5
+  trial_number: +17853845801
+

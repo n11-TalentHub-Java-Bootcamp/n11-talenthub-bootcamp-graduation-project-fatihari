@@ -1,0 +1,5 @@
+INSERT INTO public.user_account(id, identification_number, first_name, last_name, monthly_income, phone, date_of_birth) VALUES (1, '1111111111', 'Can', 'lastName1', 6000, '+905060000000', '01-04-2005');
+INSERT INTO public.user_account(id, identification_number, first_name, last_name, monthly_income, phone, date_of_birth) VALUES (2, '2222222222', 'Fatih', 'ARI', 4500, '+905070000000', '01-01-1993');
+INSERT INTO public.user_account(id, identification_number, first_name, last_name, monthly_income, phone, date_of_birth) VALUES (3, '3333333333', 'Damla', 'lastName3', 5000, '+905080000000', '01-05-1996');
+INSERT INTO public.user_account(id, identification_number, first_name, last_name, monthly_income, phone, date_of_birth) VALUES (4, '4444444444', 'Burak', 'lastName4', 15000, '+905050000000', '01-03-1987');
+INSERT INTO public.user_account(id, identification_number, first_name, last_name, monthly_income, phone, date_of_birth) VALUES (5, '5555555555', 'Ali', 'lastName5', 10000, '+905540000000', '01-02-1980');
