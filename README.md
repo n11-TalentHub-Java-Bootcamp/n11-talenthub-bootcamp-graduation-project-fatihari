@@ -1,4 +1,4 @@
-# n1 talenthub bootcamp graduation project - fatihari
+# n11 talenthub bootcamp graduation project - fatihari
 
 
 > Homework done in Java using Spring Boot and using PostgreSQL.
